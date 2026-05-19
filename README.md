@@ -19,11 +19,6 @@ publication-quality visualizations and 6 actionable insights.
 
 ---
 
-## Live Notebook
-👉 **[View Full Analysis Notebook](COVID19_Global_Trends_Analysis.ipynb)**
-
----
-
 ## Dataset
 | Detail | Value |
 |--------|-------|
