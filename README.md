@@ -158,6 +158,8 @@ jupyter notebook COVID19_Global_Trends_Analysis.ipynb
 `Data Storytelling` `Business Analysis`
 
 ---
+## 📊 Interactive Dashboard
+👉 [View Tableau Dashboard](https://public.tableau.com/app/profile/varshini.karuppusamy/viz/COVID-19GlobalImpactDashboard_17792103344110/Dashboard1?publish=yes)
 
 ## Data Source
 Our World in Data — COVID-19 Dataset
