@@ -29,7 +29,6 @@ publication-quality visualizations and 6 actionable insights.
 | Key Fields | Cases, Deaths, Vaccinations, Population |
 | Access | Auto-downloaded in notebook — no manual download needed |
 
-**Direct URL:**
 
 ---
 
@@ -129,19 +128,6 @@ publication-quality visualizations and 6 actionable insights.
 6. **Post-Omicron recovery** visible in global time-series
    as natural + vaccine immunity built up — cases declined
    across all continents from mid-2022 onward
-
----
-
-## Visualizations
-
-### Global COVID-19 Wave Patterns
-![Global Waves](plots/fig06_global_waves.png)
-
-### Vaccination Rate vs Deaths per Million
-![Vaccination vs Deaths](plots/fig11_vacc_vs_deaths.png)
-
-### Summary Dashboard
-![Summary Dashboard](plots/fig13_summary_dashboard.png)
 
 ---
 
